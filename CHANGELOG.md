@@ -2,6 +2,10 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
+## [Sin publicar]
+### Cambiado
+- Prueba de PR para verificar el CI y la actualización de la documentación.
+
 ## [0.1.0] - 2026-10-08
 ### Agregado
 - Conversión de JSON (objeto o lista de objetos) a CSV con estrategia de filtro.
