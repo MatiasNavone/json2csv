@@ -1,0 +1,14 @@
+# Dependencias de desarrollo (el programa en sí solo usa la biblioteca estándar).
+# Instalar dentro de un venv:  python -m venv .venv && pip install -r requirements.txt
+bandit==1.9.4
+black==26.10.0
+build==1.6.1
+coverage==7.16.2
+mypy==2.4.0
+pdoc==16.0.0
+pycodestyle==2.15.0
+pydocstyle==6.3.0
+pyright==1.1.414
+pytest-cov==7.1.0
+pytest==9.1.1
+ruff==0.16.10
